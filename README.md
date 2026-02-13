@@ -1,4 +1,4 @@
-Review of courses taken on Anthropic learning site as of Feb 2026.  Primarly a colection of artifacts from the courses, intended for quick references.
+Review of courses taken on Anthropic learning site as of Feb 2026.  Primary a collection of artifacts from the courses, intended for quick references.
 
 ## Courses Taken
 - https://anthropic.skilljar.com/
